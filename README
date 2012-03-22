@@ -10,4 +10,4 @@ if you want to use this, I would recommend forking it and changing
 1) the git clone path in the install.sh script
 2) the curl url points to your install.sh on github
 
-__from jaymedavis__
+from __jaymedavis__
