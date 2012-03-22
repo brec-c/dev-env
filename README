@@ -1,6 +1,6 @@
 run this from anywhere:
 
-curl https://raw.github.com/jaymedavis/dev-env/master/install.sh | sh
+curl https://raw.github.com/brec-c/dev-env/master/install.sh | sh
 
 this script will
 1) clone this repo into your Sublime packages folder
@@ -9,3 +9,5 @@ this script will
 if you want to use this, I would recommend forking it and changing
 1) the git clone path in the install.sh script
 2) the curl url points to your install.sh on github
+
+__from jaymedavis__
