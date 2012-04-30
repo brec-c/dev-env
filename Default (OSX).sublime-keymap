@@ -1,0 +1,4 @@
+[
+	{ "keys": ["ctrl+s"], "command": "show_panel", "args": {"panel": "incremental_find", "reverse":false} },
+	{ "keys": ["ctrl+shift+s"], "command": "show_panel", "args": {"panel": "incremental_find", "reverse":true} }
+]
