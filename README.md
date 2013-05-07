@@ -1,6 +1,6 @@
 run this from anywhere:
 
-curl https://raw.github.com/brec-c/dev-env/master/install.sh | sh
+`curl https://raw.github.com/brec-c/dev-env/master/install.sh | sh`
 
 this script will
 1) clone this repo into your Sublime packages folder
